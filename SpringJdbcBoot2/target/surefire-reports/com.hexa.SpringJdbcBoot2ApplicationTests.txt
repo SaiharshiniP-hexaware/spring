@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.hexa.SpringJdbcBoot2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.015 s <<< FAILURE! - in com.hexa.SpringJdbcBoot2ApplicationTests
+initializationError(com.hexa.SpringJdbcBoot2ApplicationTests)  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.TypeNotPresentException: Type org.springframework.test.context.junit4.SpringRunner not present
+Caused by: java.lang.ClassNotFoundException: org.springframework.test.context.junit4.SpringRunner
+
