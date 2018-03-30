@@ -1,0 +1,8 @@
+com\hexa\entity\Student.class
+com\hexa\dao\StuMapper.class
+com\hexa\SpringJdbc\App.class
+com\hexa\client\ClientA.class
+com\hexa\dao\IDao.class
+com\hexa\client\UpdateMarks.class
+com\hexa\client\ViewStudent.class
+com\hexa\dao\DaoImpl.class
