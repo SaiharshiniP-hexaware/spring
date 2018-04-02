@@ -1,7 +1,6 @@
 package com.hexa.service;
 
-import java.util.List;
-
 public interface Operations {
-	int getSum();
+public int sumOfIntegers();
+public int avgOfIntegers();
 }
